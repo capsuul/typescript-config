@@ -1,0 +1,26 @@
+{
+  "name": "@capsuul/typescript-config",
+  "version": "1.0.0",
+  "description": "A generic TypeScript config (tsconfig)",
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "nodejs",
+    "react",
+    "react-native"
+  ],
+  "author": "Louis SCHNEIDER <louis@schne.id>",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capsuul/typescript-config.git"
+  },
+  "homepage": "https://github.com/capsuul/typescript-config#readme",
+  "bugs": {
+    "url": "https://github.com/capsuul/typescript-config/issues"
+  },
+  "peerDependencies": {
+    "typescript": ">= 3"
+  }
+}

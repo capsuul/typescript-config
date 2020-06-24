@@ -1,0 +1,10 @@
+{
+  "extends": "./react.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "target": "ES2020",
+    "jsx": "react",
+    "types": ["react"]
+  },
+  "exclude": ["babel.config.js", "metro.config.js", "jest.config.js"]
+}
