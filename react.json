@@ -3,6 +3,7 @@
   "compilerOptions": {
     "target": "ES5",
     "jsx": "react",
-    "types": ["react"]
+    "types": ["react"],
+    "noEmit": false
   }
 }
